@@ -3,11 +3,12 @@
 Me chamo Carlos Hardman, tenho 21 anos e atualmente estou cursando o 4° Semestre de Sistemas para Internet, procuro sempre buscar aprender coisas novas e me especializar na área de tecnogias.
 
 <ul>
-   <li>👨‍💼 Trabalhando: Hardman Moveis e Decorações LDTA</li>
-   <li>🏫 Estudando: Sistemas Para Internet</li>
-   <li>🎒 Aprendendo: Html, Css, Php,  Sql, Javascript, Androind Studio , </li>
+<li>👨‍💼 Trabalhando: Hardman Moveis e Decorações LDTA</li>
+<li>🏫 Estudando: Sistemas Para Internet</li>
+ <li>🎒 Aprendendo: Html, Css, Php,  Sql, Javascript, Androind Studio , </li>
 </ul>
- ## Redes:
+    
+## Redes:
 
  [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caahardman/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-hardman-42a509258/)
